@@ -1,0 +1,10 @@
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFwkConsoleApp.exe.config
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFwkConsoleApp.exe
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFwkConsoleApp.pdb
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\obj\Debug\EntityFwkConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\obj\Debug\EntityFwkConsoleApp.exe
+c:\users\joe.ver\documents\visual studio 2013\Projects\EntityFwkConsoleApp\EntityFwkConsoleApp\obj\Debug\EntityFwkConsoleApp.pdb
